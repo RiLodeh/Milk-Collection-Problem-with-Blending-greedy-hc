@@ -15,6 +15,7 @@ Para compilar y ejecutar el programa, sigue estos pasos:
 
 2. Utiliza el siguiente comando para compilar el programa:
 
+    shell
     make
 
 3. Para ejecutar el programa, Escribe lo siguiente en la línea de comandos
