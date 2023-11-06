@@ -15,15 +15,15 @@ Para compilar y ejecutar el programa, sigue estos pasos:
 
 2. Utiliza el siguiente comando para compilar el programa:
 
-    shell
+    ```
     make
 
 3. Para ejecutar el programa, Escribe lo siguiente en la línea de comandos
-    
+    ```
     ./Nombre_del_programa Ruta_de_instancias Numero_de_iteraciones
    
 - Ejemplo
-   
+   ```
     ./MCPwB instances/a44.txt 1000
 
 ## Output
