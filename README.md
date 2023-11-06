@@ -15,21 +15,20 @@ Para compilar y ejecutar el programa, sigue estos pasos:
 
 2. Utiliza el siguiente comando para compilar el programa:
 
-   ```shell
-   make
+    make
 
 3. Para ejecutar el programa, Escribe lo siguiente en la línea de comandos
-    ```
+    
     ./Nombre_del_programa Ruta_de_instancias Numero_de_iteraciones
    
 - Ejemplo
-    ```shell
+   
     ./MCPwB instances/a44.txt 1000
 
 ## Output
 
 El output tiene el siguiente formato:
-	```
+	
 	Archivo: "Ruta de la instancia"
 	
 	Solución inicial:
@@ -51,7 +50,6 @@ El output tiene el siguiente formato:
 	Tiempo total de ejecución: Tiempo[s]
 
 Ejemplo:
-	```
 	
 	Archivo: instances/eil76.txt
 
@@ -75,7 +73,7 @@ Ejemplo:
 
 
 En caso de mezcla, el outputPasaría a ser el siguiente:
-	```
+
 	Archivo: "Ruta de la instancia"
 	
 	Solución inicial:
@@ -105,7 +103,6 @@ En caso de mezcla, el outputPasaría a ser el siguiente:
 	Tiempo total de ejecución: Tiempo[s]
 
 Ejemplo:
-	```
 	
 	Archivo: instances/a44.txt
 
